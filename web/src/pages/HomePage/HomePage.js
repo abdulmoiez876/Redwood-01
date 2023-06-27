@@ -12,6 +12,7 @@ const HomePage = () => {
 					<ul>
 						<li>
 							<Link to={routes.about()}>About</Link>
+							{/*  */}
 						</li>
 					</ul>
 				</nav>
