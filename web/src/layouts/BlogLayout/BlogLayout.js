@@ -18,6 +18,7 @@ const BlogLayout = ({ children }) => {
 					</ul>
 				</nav>
 			</header>
+			
 			<main>{children}</main>
 		</>
 	)
